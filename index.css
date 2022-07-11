@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lobster&display=swap');
+/* font-family: 'Fredoka One', cursive;
+font-family: 'Lobster', cursive; */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background-color: #0101ffa4; */
+    margin-top: 15px;
+}
+.wishes{
+    background-color: red;
+}
+.wishes h1{
+    text-align: center;
+    align-items: center;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: 'Fredoka One', cursive;
+    color: aqua;
+
+}
+img{
+    border-radius: 30px;
+}
+.container h1{
+    font-size: 3rem;
+    /* font-family: 'Lobster', cursive; */
+    font-family: 'Fredoka One', cursive;
+
+    color: aqua;
+    background-color: red;
+}    
+    
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
